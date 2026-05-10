@@ -7,4 +7,5 @@ The app is publicly available at: https://ooiaranduresearch.shinyapps.io/downs-b
 This project is intended for academic and research purposes.
 
 Reference:
+
 Downs SH, Black N. The feasibility of creating a checklist for the assessment of the methodological quality both of randomised and non-randomised studies of health care interventions. Journal of Epidemiology & Community Health. 1998;52(6):377–384. DOI: 10.1136/jech.52.6.377
